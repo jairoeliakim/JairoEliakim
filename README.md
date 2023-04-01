@@ -1,19 +1,17 @@
-### Hi there 👋
+### Hi Guys 👋
 
 
-**jairoeliakim/JairoEliakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 - 🌱 Estou no 5º período da graduação
 - 😄 Pronouns: Ele/Dele
 
-<div>
-  
-  <img height="210cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoeliakim&hide_progress=true)](https://github.com/jairoeliakim/github-readme-stats"/>
+<div>  
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoeliakim&hide_progress=true&theme=radical)](https://github.com/jairoeliakim/github-readme-stats"/>
 </div>
+
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
   
