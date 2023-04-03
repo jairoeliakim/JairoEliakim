@@ -4,7 +4,7 @@
 
 
 - 🌱 Estou no 5º período da graduação
-- 😄 Pronouns: Ele/Dele
+- 🏃‍♂️ Buscando JOB's na área de desenvolvimento
 
 <div>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
@@ -31,7 +31,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/jairoeliakim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    <a href="https://instagram.com/jairoeliakim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:jairoeliakim@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:jairoeliakim@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
+  <a href="https://api.whatsapp.com/send?phone=5531999472865" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
   <a href="https://discord.gg/Jairo Eliakim#2997" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
      
 </div>
