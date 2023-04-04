@@ -1,10 +1,11 @@
-### Hi Guys 👋
+<H1> ### Hi Guys👋, Welcome 💻  </H1>
 
 
 
 
-- 🌱 Estou no último período da graduação
-- 🏃‍♂️ Buscando JOB's na área de desenvolvimento e similares
+- 🌱 Estou no último período da graduação em Análise e Desenvolvimento de Sistemas
+- 📍 No momento trabalho com redes/Infra..
+-🔎 Buscando JOB's na área de desenvolvimento e similares
 
 <div>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
