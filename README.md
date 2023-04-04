@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estou no 5º período da graduação
-- 🏃‍♂️ Buscando JOB's na área de desenvolvimento
+- 🌱 Estou no último período da graduação
+- 🏃‍♂️ Buscando JOB's na área de desenvolvimento e similares
 
 <div>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
