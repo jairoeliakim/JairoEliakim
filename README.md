@@ -3,13 +3,13 @@
 
 
 
-- 🌱 Estou no último período da graduação em Análise e Desenvolvimento de Sistemas
-- 📍 No momento trabalho com redes/Infra..
--🔎 Buscando JOB's na área de desenvolvimento e similares
+<h2>-🌱 Estou no último período da graduação em Análise e Desenvolvimento de Sistemas </h2>
+<h3>- 📍 No momento trabalho com redes/Infraestrutura.. </h3>
+<h4>-🔎 Buscando JOB's na área de desenvolvimento e similares </h4>
 
 <div>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
-  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoeliakim&hide_progress=true&layout=compact&theme=gradiente)](https://github.com/jairoeliakim/github-readme-stats"/>
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairoeliakim&hide_progress=true&layout=compact)](https://github.com/jairoeliakim/github-readme-stats"/>
 
 
 </div>
