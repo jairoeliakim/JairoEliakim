@@ -4,7 +4,7 @@
 
 
 <h2>-🌱 Estou no último período da graduação em Análise e Desenvolvimento de Sistemas </h2>
-<h3>- 📍 No momento trabalho Assistente de sistema com linguagem ADVPL.. </h3>
+<h3>- 📍 No momento atuando como Assistente de sistemas TOVS Protheus, com linguagem ADVPL.. </h3>
 <h4>🏃‍♂️ TCC em desenvolvimento 🏃‍♂️</h4>
 
 <div>  
