@@ -3,9 +3,9 @@
 
 
 
-<h2>-🌱 Estou no último período da graduação em Análise e Desenvolvimento de Sistemas </h2>
-<h3>- 📍 No momento atuando como Assistente de sistemas TOVS Protheus, com linguagem ADVPL.. </h3>
-<h4>🏃‍♂️ TCC em desenvolvimento 🏃‍♂️</h4>
+<h2>-🌱 Graduado em Análise e Desenvolvimento de Sistemas pelo IFTM - Campus Patrocinio </h2>
+<h3>- 📍 No momento atuando como Analista de sistemas  Protheus, utilizando  linguagem ADVPL para realizar customizações, e reparos.. </h3>
+<h4>🏃‍♂️ Em busca de conhecimento ever... 🏃‍♂️</h4>
 
 <div>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jairoeliakim&show_icons=true&theme=radical"/>
